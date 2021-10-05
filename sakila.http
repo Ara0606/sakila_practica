@@ -1,0 +1,17 @@
+###
+GET http://localhost:8080/
+Accept: application/json
+
+###
+GET http://localhost:8080/profile
+Accept: application/json
+
+
+
+###
+GET http://localhost:8080/citys
+Accept: application/json
+
+
+
+
